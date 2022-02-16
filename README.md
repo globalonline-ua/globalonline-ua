@@ -1,0 +1,4 @@
+- 👋 Hi, I’m SERGII @globalonline-ua
+- 👀 I’m interested in python coding and DevOps
+- 🌱 I’m currently learning pyhton at UCODE.world
+- 📫 How to reach me globalonline AT post.com
